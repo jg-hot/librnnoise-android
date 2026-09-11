@@ -1,0 +1,2 @@
+src/rnnoise_data.c filter=lfs diff=lfs merge=lfs -text
+src/rnnoise_data_little.c filter=lfs diff=lfs merge=lfs -text
